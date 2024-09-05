@@ -18,7 +18,7 @@ The primary objective of the data system is to effectively manage and store the 
 
 ### 3. Database Solution
 
-#### 1.1.1. Conception Phase
+####  Conception Phase
 
 For this project, Apache Cassandra was selected as the preferred database solution. Apache Cassandra is a distributed NoSQL database renowned for handling extensive time-series data efficiently. It boasts scalability, fault-tolerance, and performance capabilities. Cassandra's adaptable data model obviates the need for predefined schemas, enabling seamless integration of future sensor data with varying structures.
 
